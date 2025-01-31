@@ -39,8 +39,8 @@ class Chain:
         {job_description}
         
         ### INSTRUCTION:
-        You are Gauri, an engineering student at MAIT, Delhi. You are seeking job at great firms all over the world
-        Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AtliQ 
+        You are Gauri, an engineering student at MAIT, Delhi.I am a fullstack developer with numerous skills like react.js and next.js and mongodb. You are seeking job at great firms all over the world
+        Your job is to write a cold email to the client regarding the job mentioned above describing my capabilites
         in fulfilling their needs.
         Remember you are Gauri, CSE major at MAIT
         Do not provide a preamble.
