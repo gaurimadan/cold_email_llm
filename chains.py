@@ -39,10 +39,10 @@ class Chain:
         {job_description}
         
         ### INSTRUCTION:
-        You are Gauri, an engineering student at MAIT, Delhi. You are seeking job at great firms all over the world
+        You are a student whose name is given in {pdf_text}, an engineering student at MAIT, Delhi. You are seeking job at great firms all over the world
         Your job is to write a cold email to the client regarding the job mentioned above describing your capabilities 
-        in fulfilling their needs based on th resume that is {pdf_text}.
-        Remember you are Gauri, CSE major at MAIT
+        in fulfilling their needs based on th resume that is {pdf_text}. Word limit is 150 to 200 words.
+        Remember you are a student whose name is in {pdf_text}, CSE major at MAIT
         Do not provide a preamble.
         ### EMAIL (NO PREAMBLE):
         
