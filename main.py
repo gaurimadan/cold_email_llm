@@ -22,7 +22,7 @@ def create_streamlit_app(llm, clean_text):
     st.title("📧 Cold Mail Generator")
 
     # URL input for job descriptions
-    url_input = st.text_input("Enter a URL:", value="")
+    url_input = st.text_input("Enter a job posting:", value="")
 
     # File uploader for PDF upload
     uploaded_pdf = st.file_uploader("Upload your resume (PDF format)", type="pdf")
